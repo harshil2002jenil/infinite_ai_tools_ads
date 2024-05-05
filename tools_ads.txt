@@ -39,7 +39,7 @@
       "fbInterstitialAdsId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "fbNativeAdsId": "IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
       "reviewScreenCount": 5,
-      "reviewEmail": "chatgodapplication@gmail.com",
+      "reviewEmail": "harshilkoladiya19@gmail.com",
       "categoriesPageShow": true,
       "adsViewUpAndDownShow": false,
       "closeButtonAds": true,
