@@ -31,7 +31,7 @@
       "appVersion": "1.0.8",
       "createdAt": "2023-01-26T07:07:33.888Z",
       "updatedAt": "2024-04-26T10:52:31.053Z",
-      "rewardAdCount": "6",
+      "rewardAdCount": "100",
       "rewardAdDuration": "3",
       "updateAppUrl": "https://play.google.com/store/apps/details?id=com.aichat.chatgod",
       "contentCoin": "5",
