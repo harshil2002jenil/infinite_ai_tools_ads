@@ -22,7 +22,7 @@
       "interstitialAdsId": "ca-app-pub-1584291147316739/4146856812",
       "nativeAdsId": "ca-app-pub-1584291147316739/4209481706",
       "rewardAdsId": "ca-app-pub-1584291147316739/9442962240",
-      "link1": "ca-app-pub-3940256099942544/9257395921",
+      "link1": "ca-app-pub-1584291147316739/8144146843",
       "link2": "3",
       "link3": "8",
       "link4": "on",
