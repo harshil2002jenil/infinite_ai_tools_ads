@@ -33,7 +33,7 @@
       "updatedAt": "2024-04-26T10:52:31.053Z",
       "rewardAdCount": "3",
       "rewardAdDuration": "10",
-      "updateAppUrl": "https://play.google.com/store/apps/details?id=com.aichat.chatgod",
+      "updateAppUrl": "https://play.google.com/store/apps/details?id=com.ai.infinite.ai.writer.tools",
       "contentCoin": "5",
       "fbBannerAdsId": "453941086979460_465991332441102",
       "fbInterstitialAdsId": "453941086979460_465991409107761",
