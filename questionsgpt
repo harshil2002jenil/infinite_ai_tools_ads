@@ -1,0 +1,47 @@
+{
+  body: {
+    "success": true,
+    "message": "Success.",
+    "payload": {
+      "_id": "6634cdaaa6470c65969843bf",
+      "isForceUpdate": false,
+      "isNormalUpdate": false,
+      "adType": "1",
+      "adShow": "on",
+      "interstitialAdsCount": 15,
+      "interstitialAdsId": "ca-app-pub-1066046337682348/7701283972",
+      "nativeAdsId": "ca-app-pub-1066046337682348/7869924490",
+      "rewardAdsId": "ca-app-pub-3940256099942544/5224354917",
+      "openAdsId": "ca-app-pub-1066046337682348/5243761157",
+      "bannerAdsId": "ca-app-pub-1066046337682348/6333481545",
+      "fb_bannerAdsId": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
+      "fb_interstitialAdsId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fb_nativeAdsId": "IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
+      "bannerAdsShow": true,
+      "interstitialAdsShow": true,
+      "nativeAdsShow": true,
+      "openAdsShow": true,
+      "rewardAdsShow": true,
+      "appName": "MathGPT-live",
+      "appVersion": "1.0.0",
+      "updatedAt": "2024-05-06T09:50:02.429Z",
+      "rewardAdDuration": 10,
+      "rewardAdclick": 1,
+      "coinAdd": 5,
+      "appLink": "https://play.google.com/store/apps/details?id=",
+      "email": "info@gmail.com."
+    }
+  },
+  headers: {
+    connection: keep-alive,
+    x-powered-by: Express,
+    date: Thu,
+    23May202410: 56: 09GMT,
+    access-control-allow-origin: *,
+    content-length: 1047,
+    etag: W/"417-Mo4E68zJDyGSfnACg2S/o7zdJnQ",
+    content-type: application/json;charset=utf-8,
+    server: nginx/1.24.0(Ubuntu)
+  },
+  error_description: null
+}
