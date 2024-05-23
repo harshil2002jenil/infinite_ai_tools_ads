@@ -1,9 +1,10 @@
 {
-  body: {
-    "success": true,
-    "message": "Success.",
-    "payload": {
-      "_id": "6634cdaaa6470c65969843bf",
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "language": "en_US",
+  "payload": [
+    {
+       "_id": "6634cdaaa6470c65969843bf",
       "isForceUpdate": false,
       "isNormalUpdate": false,
       "adType": "1",
@@ -31,17 +32,6 @@
       "appLink": "https://play.google.com/store/apps/details?id=",
       "email": "info@gmail.com."
     }
-  },
-  headers: {
-    connection: keep-alive,
-    x-powered-by: Express,
-    date: Thu,
-    23May202410: 56: 09GMT,
-    access-control-allow-origin: *,
-    content-length: 1047,
-    etag: W/"417-Mo4E68zJDyGSfnACg2S/o7zdJnQ",
-    content-type: application/json;charset=utf-8,
-    server: nginx/1.24.0(Ubuntu)
-  },
-  error_description: null
+  ],
+  "error": null
 }
