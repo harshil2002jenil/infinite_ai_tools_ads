@@ -2,7 +2,7 @@
   "status": "SUCCESS",
   "statusCode": 200,
   "language": "en_US",
-  "payload": [
+  "data": [
     {
        "_id": "6634cdaaa6470c65969843bf",
       "isForceUpdate": false,
