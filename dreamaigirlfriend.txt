@@ -24,7 +24,7 @@
       "nativeBlogScreen": true,
       "nativeBlogListScreen": true,
       "_id": "663b1a481077078fd686f448",
-      "adType": "1",
+      "adType": "2",
       "adShow": "on",
       "interstitialAdsCount": 4,
       "loadingTime": 3,
