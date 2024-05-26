@@ -35,7 +35,7 @@
       "openAdID": "ca-app-pub-3940256099942544/9257395921",
       "fbOpenAdID": "ca-app-pub-3940256099942544/9257395921",
       "adShowCountOnMsg": "3",
-      "coinAdd": "5",
+      "coinAdd": "2",
       "appName": "Dream AI Girlfriend",
       "appVersion": "1.2.0",
       "rewardAdCount": "1",
