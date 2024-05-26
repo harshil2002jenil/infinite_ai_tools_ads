@@ -53,7 +53,7 @@
       "reviewScreenCount": 10,
       "reviewEmail": "mailto:roomeeofficial24@gmail.com",
       "coinAdShow": true,
-      "coinRewardInterstitialShow": false,
+      "coinRewardInterstitialShow": true,
       "premiumHomeShow": false,
       "subscriptionShow": false,
       "versionNumber": "1.0.0"
