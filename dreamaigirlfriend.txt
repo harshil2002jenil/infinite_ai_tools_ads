@@ -52,7 +52,7 @@
       "historyPage": true,
       "reviewScreenCount": 10,
       "reviewEmail": "mailto:roomeeofficial24@gmail.com",
-      "coinAdShow": true,
+      "coinAdShow": false,
       "coinRewardInterstitialShow": true,
       "premiumHomeShow": false,
       "subscriptionShow": false,
