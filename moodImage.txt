@@ -43,14 +43,7 @@
     {
       "mood": "Romantic",
       "male": [
-        "https://avatars.dzeninfra.ru/get-zen_doc/10425803/pub_647e427c89c7db13da8a08cf_647e43133f0f616a867022ab/scale_1200",
-        "https://storage.ws.pho.to/s2/43ddbd974b8943c8a236e5b50c6f3da915a9e3fd_m.jpeg",
-        "https://yt3.googleusercontent.com/oxcgIzzZLada6loVJiipviu4sKAxblqoYo8zmPefGkwCirR5kSHyeemqPASADoA8Yy9KJc-uSw=s900-c-k-c0x00ffffff-no-rj",
-        "https://cdn.pixabay.com/photo/2023/09/09/20/03/ai-generated-8243780_1280.jpg",
-        "https://storage.googleapis.com/pai-images/cbfd0b132be04019a5f58214b531b054.jpeg",
-        "https://storage.ws.pho.to/s2/0c079c50ab76be46b4698e038b52077b2a92d566_m.png",
-        "https://sun9-44.userapi.com/impg/c3HMcUiAJvM_P6yQgv-7V41c3ZPRPAfO4EwLiA/CLhKP6eOa8s.jpg?size=538x807&quality=95&sign=5414ba9185c421cb032e6e5dd6075478&c_uniq_tag=bsM67OCMLMiF6Qp5GaDvV2hI3klX2zmk0_PCke4Fay0&type=album",
-        "https://image.lexica.art/full_jpg/bc03024e-5a07-4304-a0d2-7fb96b5ba290""https://i.pinimg.com/originals/02/8e/09/028e09ccce4cd50b03bffcd90d2a36af.jpg"
+        "https://avatars.dzeninfra.ru/get-zen_doc/10425803/pub_647e427c89c7db13da8a08cf_647e43133f0f616a867022ab/scale_1200","https://storage.ws.pho.to/s2/43ddbd974b8943c8a236e5b50c6f3da915a9e3fd_m.jpeg","https://yt3.googleusercontent.com/oxcgIzzZLada6loVJiipviu4sKAxblqoYo8zmPefGkwCirR5kSHyeemqPASADoA8Yy9KJc-uSw=s900-c-k-c0x00ffffff-no-rj","https://cdn.pixabay.com/photo/2023/09/09/20/03/ai-generated-8243780_1280.jpg","https://storage.googleapis.com/pai-images/cbfd0b132be04019a5f58214b531b054.jpeg","https://storage.ws.pho.to/s2/0c079c50ab76be46b4698e038b52077b2a92d566_m.png","https://sun9-44.userapi.com/impg/c3HMcUiAJvM_P6yQgv7V41c3ZPRPAfO4EwLiA/CLhKP6eOa8s.jpgsize=538x807&quality=95&sign=5414ba9185c421cb032e6e5dd6075478&c_uniq_tag=bsM67OCMLMiF6Qp5GaDvV2hI3klX2zmk0_PCke4Fay0&type=album","https://image.lexica.art/full_jpg/bc03024e-5a07-4304-a0d2-7fb96b5ba290""https://i.pinimg.com/originals/02/8e/09/028e09ccce4cd50b03bffcd90d2a36af.jpg"
       ],
       "female": [
         "https://i.pinimg.com/originals/87/05/2a/87052ad8a59e23c63d9bec3a4359a0ec.jpg",
