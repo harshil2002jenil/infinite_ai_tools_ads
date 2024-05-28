@@ -6,40 +6,16 @@
     {
       "mood": "Angry",
       "female": [
-        "https://image.lexica.art/full_jpg/594c8a26-29c2-4390-b5a9-15a645da08ed",
-        "https://cdn.litgorod.ru/images/avatars/4011d7f6e5544d05913b415ae289fabb.png",
-        "https://avatars.dzeninfra.ru/get-zen_doc/10165010/pub_64f30df247d7fd70ef1ffc0e_64f31b7018ddc5342455fe8f/scale_1200",
-        "https://image.lexica.art/full_jpg/3bf9ef47-5dd9-4b98-8287-466b2369dd54",
-        "https://image.lexica.art/full_jpg/9a03126d-5b10-4cad-b4d7-7ba3213dd291",
-        "https://i.pinimg.com/originals/21/17/bb/2117bb944a9b3d888842ded40f383a97.jpg",
-        "https://sun6-21.userapi.com/impg/FsZTWquvphjGafA6CSmdkiy5rxuMxtzb5WDWQg/uf1kMTRHGso.jpg?size=538x807&quality=95&sign=0db74a0789e0bbbb6ae21050ef4d50c4&c_uniq_tag=keHibz9wxwS3MDYhk_8lUdSnNLC_XrWkBNHlb5l2Gs0&type=album",
-        "https://static23.tgcnt.ru/posts/_0/43/43756124589fdae58f6d0a9aa6a689b3.jpg",
-        "https://image.lexica.art/full_jpg/54eea0e2-e7db-4024-81b5-0a31924124f1"
+        "https://image.lexica.art/full_jpg/594c8a26-29c2-4390-b5a9-15a645da08ed","https://cdn.litgorod.ru/images/avatars/4011d7f6e5544d05913b415ae289fabb.png","https://avatars.dzeninfra.ru/get-zen_doc/10165010/pub_64f30df247d7fd70ef1ffc0e_64f31b7018ddc5342455fe8f/scale_1200","https://image.lexica.art/full_jpg/3bf9ef47-5dd9-4b98-8287-466b2369dd54","https://image.lexica.art/full_jpg/9a03126d-5b10-4cad-b4d7-7ba3213dd291","https://i.pinimg.com/originals/21/17/bb/2117bb944a9b3d888842ded40f383a97.jpg","https://sun6-21.userapi.com/impg/FsZTWquvphjGafA6CSmdkiy5rxuMxtzb5WDWQg/uf1kMTRHGso.jpg?size=538x807&quality=95&sign=0db74a0789e0bbbb6ae21050ef4d50c4&c_uniq_tag=keHibz9wxwS3MDYhk_8lUdSnNLC_XrWkBNHlb5l2Gs0&type=album","https://static23.tgcnt.ru/posts/_0/43/43756124589fdae58f6d0a9aa6a689b3.jpg","https://image.lexica.art/full_jpg/54eea0e2-e7db-4024-81b5-0a31924124f1"
       ],
       "male": [
-        "https://cm.author.today/content/2023/06/13/6a11e894fbdf43c1a86e2e6012d119bc.jpg",
-        "https://masterpiecer-images.s3.yandex.net/c1be83398ead11ee9d9456181a0358a2:upscaled",
-        "https://image.lexica.art/full_jpg/de47a49f-d5cb-45b0-9def-fef691bdc04d",
-        "https://image.lexica.art/full_jpg/27c61298-db98-4f9a-805a-ed65486b9735",
-        "https://www.ailiefreeman.ru/index.files/image007.jpg",
-        "https://sun9-60.userapi.com/impg/6jIgAMwg6i1fe6di0mvoLqrtXuB7ButKjAp9ng/QoHOnk3oRR8.jpg?size=385x684&quality=95&sign=bcb1f19a6d2ea86b7a48d11d09a6e5af&type=album",
-        "https://cm.author.today/content/2023/06/11/68482bf51aa0441095fa6e69152d7411.jpg",
-        "https://avatars.mds.yandex.net/get-shedevrum/12961523/333c1ffbb90311eebb23fedcde01c776/orig",
-        "https://i0.wp.com/image.lexica.art/full_jpg/cc471c2a-0137-4c95-89f8-26b30e7da555?ssl=1"
+        "https://cm.author.today/content/2023/06/13/6a11e894fbdf43c1a86e2e6012d119bc.jpg","https://masterpiecer-images.s3.yandex.net/c1be83398ead11ee9d9456181a0358a2:upscaled","https://image.lexica.art/full_jpg/de47a49f-d5cb-45b0-9def-fef691bdc04d","https://image.lexica.art/full_jpg/27c61298-db98-4f9a-805a-ed65486b9735","https://www.ailiefreeman.ru/index.files/image007.jpg","https://sun9-60.userapi.com/impg/6jIgAMwg6i1fe6di0mvoLqrtXuB7ButKjAp9ng/QoHOnk3oRR8.jpg?size=385x684&quality=95&sign=bcb1f19a6d2ea86b7a48d11d09a6e5af&type=album","https://cm.author.today/content/2023/06/11/68482bf51aa0441095fa6e69152d7411.jpg","https://avatars.mds.yandex.net/get-shedevrum/12961523/333c1ffbb90311eebb23fedcde01c776/orig","https://i0.wp.com/image.lexica.art/full_jpg/cc471c2a-0137-4c95-89f8-26b30e7da555?ssl=1"
       ]
     },
     {
       "mood": "Bossy",
       "male": [
-        "https://bizpages.org/uploaded_images/photo/6/39123.jpg",
-        "https://avatars.dzeninfra.ru/get-zen-vh/271828/2a00237d7f54ca14de16f821ebbf8ac2b757/1080x1920",
-        "https://bestravelers.com/wp-content/uploads/2023/11/The-city-break-travel-destinations.jpg",
-        "https://coollib.com/i/90/647990/img_6",
-        "https://storage.ws.pho.to/s2/fe8c443097d0e5548b361fae1126b29adcfd717a_m.png",
-        "https://static.tildacdn.com/tild3264-3131-4561-b664-363231356133/DALLE_2023-11-14_024.jpg",
-        "https://i.pinimg.com/736x/e8/a0/aa/e8a0aa97e53cf90e05229c23e0bb72ef.jpg",
-        "https://259506.selcdn.ru/sites-static/site766290/407562a3-8c23-41c5-bb3b-b5c4137122d7/407562a3-8c23-41c5-bb3b-b5c4137122d7-5407669.jpeg",
-        "https://storage.ws.pho.to/s2/4af7b3d82d9b6641b4c25ab219d1c79cc42500fa_m.png"
+        "https://bizpages.org/uploaded_images/photo/6/39123.jpg","https://avatars.dzeninfra.ru/get-zen-vh/271828/2a00237d7f54ca14de16f821ebbf8ac2b757/1080x1920","https://bestravelers.com/wp-content/uploads/2023/11/The-city-break-travel-destinations.jpg","https://coollib.com/i/90/647990/img_6","https://storage.ws.pho.to/s2/fe8c443097d0e5548b361fae1126b29adcfd717a_m.png","https://static.tildacdn.com/tild3264-3131-4561-b664-363231356133/DALLE_2023-11-14_024.jpg","https://i.pinimg.com/736x/e8/a0/aa/e8a0aa97e53cf90e05229c23e0bb72ef.jpg","https://259506.selcdn.ru/sites-static/site766290/407562a3-8c23-41c5-bb3b-b5c4137122d7/407562a3-8c23-41c5-bb3b-b5c4137122d7-5407669.jpeg","https://storage.ws.pho.to/s2/4af7b3d82d9b6641b4c25ab219d1c79cc42500fa_m.png"
       ],
       "female": [
         "https://image.lexica.art/full_jpg/32b496db-2543-43bd-a84e-51800d09fdef",
