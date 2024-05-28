@@ -38,7 +38,7 @@
       "coinAdd": "2",
       "appName": "Dream AI Girlfriend",
       "appVersion": "1.2.0",
-      "rewardAdCount": "1",
+      "rewardAdCount": "10",
       "rewardAdDuration": "6",
       "updateAppUrl": "https://play.google.com/store/apps/details?id=",
       "streakDuration": "24",
