@@ -36,7 +36,7 @@
       "fbOpenAdID": "ca-app-pub-3940256099942544/9257395921",
       "adShowCountOnMsg": "3",
       "coinAdd": "2",
-      "appName": "Dream AI Girlfriend",
+      "appName": "Honeybee AI Girlfriend",
       "appVersion": "1.2.0",
       "rewardAdCount": "10",
       "rewardAdDuration": "6",
