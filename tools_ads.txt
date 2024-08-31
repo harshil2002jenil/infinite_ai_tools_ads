@@ -14,7 +14,7 @@
       "aiImageNativeAd": true,
       "galleryNativeAd": false,
       "_id": "64c1ff523dfa2a5aa2fa3d18",
-      "adType": "4",
+      "adType": "2",
       "adShow": "on",
       "interstitialAdsCount": 2,
       "loadingTime": 3,
