@@ -33,7 +33,7 @@
       "adShow": "on",
       "adType": "1",
       "appName": "Missme-test",
-      "appVersion": "1.0.0",
+      "appVersion": "1.5.0",
       "interstitialAdsCount": 5,
       "loadingTime": 3,
       "rewardAdCount": "3",
