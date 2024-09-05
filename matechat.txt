@@ -43,7 +43,7 @@
       "fbNativeAdsId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "fbRewardedAdsId": "336692642657181_336694875990291_test",
       "streakDuration": "24",
-      "updateAppUrl": "https://play.google.com/store/apps/details?id=com.chat.virtual.friend.looly",
+      "updateAppUrl": "https://play.google.com/store/apps/y",
       "discoverInterstitialAdsCount": 7,
       "subscriptionNote": true,
       "subscriptionNote1": 2,
