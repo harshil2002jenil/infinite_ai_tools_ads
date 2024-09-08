@@ -31,7 +31,7 @@
       "createdAt": "2023-10-06T04:20:03.302Z",
       "updatedAt": "2024-08-10T05:12:52.725Z",
       "adShow": "on",
-      "adType": "1",
+      "adType": "2",
       "appName": "Missme-test",
       "appVersion": "1.5.0",
       "interstitialAdsCount": 5,
